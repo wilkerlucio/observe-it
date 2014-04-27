@@ -1,0 +1,30 @@
+{
+  "name": "observe-it",
+  "version": "0.0.0",
+  "description": "Really simple cross-platform observe pattern applied",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/observe-it_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wilkerlucio/observe-it.git"
+  },
+  "keywords": [
+    "observable"
+  ],
+  "author": "Wilker Lucio <wilkerlucio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wilkerlucio/observe-it/issues"
+  },
+  "devDependencies": {
+    "chai": "~1.9.1",
+    "mocha": "~1.18.2",
+    "sinon": "~1.9.1",
+    "sinon-chai": "~2.5.0"
+  }
+}
