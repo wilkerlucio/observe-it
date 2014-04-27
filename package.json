@@ -1,6 +1,6 @@
 {
   "name": "observe-it",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Really simple cross-platform observe pattern applied",
   "main": "index.js",
   "directories": {
